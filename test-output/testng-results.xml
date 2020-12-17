@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="18810" started-at="2020-12-16T18:26:10Z" finished-at="2020-12-16T18:26:29Z">
+    <groups>
+    </groups>
+    <test name="Testing123" duration-ms="18810" started-at="2020-12-16T18:26:10Z" finished-at="2020-12-16T18:26:29Z">
+      <class name="org.test1.TestNG">
+        <test-method status="PASS" signature="lauchbrowser()[pri:0, instance:org.test1.TestNG@8bd1b6a]" name="lauchbrowser" is-config="true" duration-ms="13946" started-at="2020-12-16T18:26:10Z" finished-at="2020-12-16T18:26:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchbrowser -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.test1.TestNG@8bd1b6a]" name="startTime" is-config="true" duration-ms="4" started-at="2020-12-16T18:26:24Z" finished-at="2020-12-16T18:26:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:org.test1.TestNG@8bd1b6a]" name="testCase1" duration-ms="3602" started-at="2020-12-16T18:26:24Z" finished-at="2020-12-16T18:26:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.test1.TestNG@8bd1b6a]" name="endTime" is-config="true" duration-ms="1" started-at="2020-12-16T18:26:28Z" finished-at="2020-12-16T18:26:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="closeapp()[pri:0, instance:org.test1.TestNG@8bd1b6a]" name="closeapp" is-config="true" duration-ms="1220" started-at="2020-12-16T18:26:28Z" finished-at="2020-12-16T18:26:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- org.test1.TestNG -->
+    </test> <!-- Testing123 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
